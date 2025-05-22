@@ -1,12 +1,23 @@
-# Core Python libraries for AI Engineering Essentials - Part 1
-ipykernel
-
 # Large Language Model (LLM) related packages
 openai
 anthropic
+transformers
+diffusers
+torch
+torchvision
+torchaudio
+accelerate
+bitsandbytes
+
+# datasets from huggingface
+datasets
 
 # User interface frameworks
 streamlit
 
 # Environment and API key management
 python-dotenv
+
+# Jupyter notebook related libraries
+ipykernel
+ipywidgets

@@ -1,3 +1,5 @@
 # Environment files
 .env
 ai_env/
+venv
+lecture-tools/
