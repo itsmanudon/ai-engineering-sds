@@ -21,3 +21,5 @@ python-dotenv
 # Jupyter notebook related libraries
 ipykernel
 ipywidgets
+# Agno and Tavily
+tavily-python
