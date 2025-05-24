@@ -79,7 +79,6 @@ script_root: assets/scripts/essentials-part-1/section4/
 | 4 | Hugginface Spaces                     | Exploring the spaces tab                            |
 | 5 | Code with Huggingface on Google Colab | Getting started using the pipeline method           |
 | 6 | Loading Models with `from_pretrained` | Config files, weight shards, device maps.           |
-| 7 | Tokenization Deep Dive                | BPE mechanics, attention masks, French example.     |
 
 ```paths
 nb_root:   AI-Engineering-Essentials/Part2/section1/
@@ -91,11 +90,11 @@ script_root: assets/scripts/essentials-part-2/section1/
 
 | #  | Lecture Title                         | Scope                                            |
 | -- | ------------------------------------- | ------------------------------------------------ |
-| 8  | HF Datasets in Practice               | Streaming, filtering, memory-safe transforms.    |
-| 9  | Data Collators & Batching             | Padding strategies and GPU throughput tips.      |
-| 10 | Finetuning a Causal-LM with `Trainer` | 20-line script, checkpoints, early stopping.     |
-| 11 | PEFT & LoRA Intro                     | Adapter theory, VRAM savings, quick demo.        |
-| 12 | Evaluating with `evaluate`            | Perplexity, BLEU, and debugging bad generations. |
+| 7  | HF Datasets in Practice               | Streaming, filtering, memory-safe transforms.    |
+| 8  | Data Collators & Batching             | Padding strategies and GPU throughput tips.      |
+| 9  | Finetuning a Causal-LM with `Trainer` | 20-line script, checkpoints, early stopping.     |
+| 10 | PEFT & LoRA Intro                     | Adapter theory, VRAM savings, quick demo.        |
+| 11 | Evaluating with `evaluate`            | Perplexity, BLEU, and debugging bad generations. |
 
 ```paths
 nb_root:   AI-Engineering-Essentials/Part2/section2/
