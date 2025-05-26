@@ -8,6 +8,10 @@ torchvision
 torchaudio
 accelerate
 bitsandbytes
+evaluate
+
+# Machine learning libraries
+scikit-learn
 
 # datasets from huggingface
 datasets
