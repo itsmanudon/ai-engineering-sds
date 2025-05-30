@@ -87,11 +87,14 @@ script_root: assets/scripts/essentials-part-2/section1/
 
 ### Section 2 · Sharing, Deployment & Capstone
 
-| #  | Lecture Title                           | Scope                                              |
-| -- | --------------------------------------- | -------------------------------------------------- |
-| 12 | Push to the Hub                         | Versioning, model cards, private repos.            |
-| 13 | Deploying a Gradio Space                | Fast CPU vs GPU endpoints, latency demo.           |
-| 14 | Mini-Project Kick-off: Smart Summarizer | Project brief, dataset link, submission checklist. |
+| #   | Lecture Title                           | Scope                                              |
+| --- | --------------------------------------- | -------------------------------------------------- |
+| 7.1 | Project: AI Note Taker                  | Project Brief and explanation                      |
+| 7.2 | Giving our AI Chat Functionalities      | Building a simple chatbot                          |
+| 7.3 | Giving our AI a face                    | Simple Gradio application                          |
+| 7.6 | Giving our AI Audio                     | Transcribing audio to pass to an LLM               |
+| 7.6 | Customizing our Gradio Application      | Passing audio into our model                       |
+| 7.7 | Deploying our AI to HF Spaces           | Deployment to Huggingface Spaces                   |
 
 ```paths
 nb_root:   AI-Engineering-Essentials/Part2/section3/
