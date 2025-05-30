@@ -3,15 +3,18 @@ openai
 anthropic
 transformers
 diffusers
-torch
-torchvision
-torchaudio
 accelerate
 bitsandbytes
 evaluate
 
 # Machine learning libraries
 scikit-learn
+
+# Deep learning libraries
+torch
+torchvision
+torchaudio
+tf-keras
 
 # datasets from huggingface
 datasets
