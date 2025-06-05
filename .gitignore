@@ -2,5 +2,6 @@
 .env
 ai_env/
 venv
-lecture-tools/
+
+# lecture assets
 assets/
