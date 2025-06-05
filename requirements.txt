@@ -21,6 +21,7 @@ datasets
 
 # User interface frameworks
 streamlit
+gradio
 
 # Environment and API key management
 python-dotenv
@@ -28,5 +29,6 @@ python-dotenv
 # Jupyter notebook related libraries
 ipykernel
 ipywidgets
+
 # Agno and Tavily
 tavily-python
