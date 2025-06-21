@@ -107,6 +107,31 @@ script_root: assets/scripts/essentials-part-2/section3/
 
 *“From fine-tuning to feature stores—upgrade your prototyping game.”*
 
+### Section 1: OpenAI Response API
+
+| #  | Lecture Title                            | Scope                                                                    |
+| -- | ---------------------------------------- | ------------------------------------------------------------------------ |
+| 1  | Course intro                             | What students will learn, how to make best use of the course (practice)  |
+| 2  | Response API vs Chat Completions         |  |
+| 3  | Prompt Engineering Beginner
+| 4  | Prompt Engineering Advanced
+| 5  | Difference in results
+| 6  | Function Calling
+| 7  | Simple Agent
+| 8  | Streaming
+
+
+
+### Section 2: Finetuning using OpenAI
+
+### Section 3: Finetuning using Huggingface
+
+### Section 4: Basic Evaluations
+
+### Project: Customer support agent with Human in the Loop
+
+
+
 | #  | Lecture Title                            | Scope                                                               |
 | -- | ---------------------------------------- | ------------------------------------------------------------------- |
 | 1  | Course Orientation & Skills Matrix       | Map the jump from Essentials to Mastery; prerequisite refresh.      |
