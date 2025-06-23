@@ -105,6 +105,25 @@ python -m venv ai_env
 ai_env\Scripts\activate
 ```
 
+**Note** to windows users, when trying to activate your virtual environment, you may run into an error looking something like this 
+
+```
+ai_env\Scripts\activate : File C:\Users\<username>\OneDrive\Desktop\ai-engineering\ai_env\Scripts\Activate.ps1 cannot be loaded because running scripts is disabled on this system.
+
+For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170
+```
+
+The reason for this is because by default, Microsoft disables the ability to execute the scripts. To overcome this, 
+
+1. Open up PowerShell (terminal) as admin
+2. Run the following command: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+3. Close and re-open PowerShell (restart your machine if you have to)
+4. Try activating the environment again by:
+    - Navigating to the root directory of the project (the ai-engineering folder) using the terminal
+    - Run `ai_env/Scripts/Activate`
+
+An issue has alread been raised for this which you can find [here](https://github.com/SuperDataScience-Community/ai-engineering/issues/6)
+
 - **On MacOS/Linux**
 ```bash
 python -m venv ai_env
