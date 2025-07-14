@@ -33,3 +33,6 @@ ipywidgets
 
 # Agno and Tavily
 tavily-python
+
+# Additional utilities
+requests
