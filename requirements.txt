@@ -6,6 +6,12 @@ diffusers
 accelerate
 bitsandbytes
 evaluate
+langchain
+langchain-core
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-community
 
 # Machine learning libraries
 scikit-learn
