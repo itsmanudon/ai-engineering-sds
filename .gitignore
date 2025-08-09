@@ -5,3 +5,6 @@ venv
 
 # lecture assets
 assets/
+
+# vectorstore files
+AI-Engineering-Intermediate/Part1/vector_db/
