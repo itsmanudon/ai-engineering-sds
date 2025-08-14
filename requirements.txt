@@ -44,3 +44,4 @@ tavily-python
 requests
 plotly
 nbformat
+tavily-python
