@@ -6,6 +6,12 @@ diffusers
 accelerate
 bitsandbytes
 evaluate
+langchain
+langchain-core
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-community
 
 # Machine learning libraries
 scikit-learn
@@ -22,6 +28,7 @@ datasets
 # User interface frameworks
 streamlit
 gradio
+flask
 
 # Environment and API key management
 python-dotenv
@@ -31,4 +38,10 @@ ipykernel
 ipywidgets
 
 # Agno and Tavily
+tavily-python
+
+# Additional utilities
+requests
+plotly
+nbformat
 tavily-python
