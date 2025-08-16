@@ -34,7 +34,7 @@ Each course is organized into its own directory.
 📌 **Current Courses Available:**
 - 🟢 AI Engineering Essentials – Part 1
 - 🟢 AI Engineering Essentials – Part 2
-- 🔜 AI Engineering Intermediate – Part 1 *(Coming Soon)*  
+- 🟢 AI Engineering Intermediate – Part 1
 - 🔜 AI Engineering Intermediate – Part 2 *(Coming Soon)*
 - 🔜 AI Engineering Advanced – Part 1 *(Coming Soon)*
 - 🔜 AI Engineering Advanced – Part 2 *(Coming Soon)*
